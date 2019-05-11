@@ -1,2 +1,2 @@
 # Capture-The-Flag
-Solutions for Capture the Flag (CTF) Challenges
+Interesting solutions for Capture the Flag (CTF) Challenges submitted by students.
