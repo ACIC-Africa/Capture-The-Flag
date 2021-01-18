@@ -10,6 +10,6 @@ BZIP2: bzip2 -vfd file.bz2
 
 ZIP: unzip file.zip
 
-7-ZIP: 7z e file
+7-ZIP/CAB: 7z e file
 
 PPMD: ppmd d file.ppmd
