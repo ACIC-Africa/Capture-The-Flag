@@ -17,3 +17,7 @@ PPMD: ppmd d file.ppmd
 KGB: KGB -3 file.kgb
 
 ARJ: arj e file.arj
+
+RZIP: rzip -d file.rz
+
+GZIP: tar -xzvf file.gz
